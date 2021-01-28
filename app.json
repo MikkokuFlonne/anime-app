@@ -1,0 +1,12 @@
+{
+  "name": "anime-app",
+  "displayName": "anime-app",
+  "expo": {
+    "name": "anime-app",
+    "slug": "anime-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
